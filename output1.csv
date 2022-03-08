@@ -1,0 +1,21 @@
+Address,lat,lon,Name,NS Small Business,Type of Business,Received Small Business Impact Grant,Received Small Business Reopening and Support Grant,num,Impact Grant,Reopening and Support Grant
+"['1721 Brunswick Street', 'Halifax, NS B3J 2G4', 'Canada']",44.6469803,-63.5766411,HFX Sports Bar & Grill,HFX Sports Bar & Grill,Drinking establishment,yes,yes,1,1,1
+NaN,NaN,NaN,NaN,11 Street Boutique,Small retail,no,yes,2,0,1
+NaN,NaN,NaN,NaN,1st Quality Shoe Repair,Small retail,no,yes,2,0,1
+"['5670 Macara Street', 'Halifax, NS B3K', 'Canada']",44.6596199,-63.59813,2b Theatre Company,2b Theatre Company,"Live, performing arts for audience",yes,no,3,1,0
+NaN,NaN,NaN,NaN,2nd Glance Hair & Aesthetics,Personal care service,yes,yes,7,1,1
+NaN,NaN,NaN,NaN,30 Minute Hit,Fitness establishment,yes,yes,0,1,1
+"['815 Bedford Highway', 'Bedford, NS B4A 1A4', 'Canada']",44.70995,-63.66868,360 Lounge,360 Lounge,Restaurant with onsite dining,yes,yes,4,1,1
+NaN,NaN,NaN,NaN,360Fit Personal Training,Fitness establishment,yes,yes,0,1,1
+"['619 Sackville Dr', 'Lower Sackville, NS B4C 2S4', 'Canada']",44.7691299,-63.6868,3's Company Hair Design,3's Company Hair Design,Personal care service,yes,yes,7,1,1
+NaN,NaN,NaN,NaN,4 Way Stop Restaurant and Pizzeria,Restaurant with onsite dining,yes,yes,4,1,1
+NaN,NaN,NaN,NaN,516 Salon,Personal care service,no,yes,7,0,1
+NaN,NaN,NaN,NaN,5th Dimension Hair Design,Personal care service,yes,yes,7,1,1
+NaN,NaN,NaN,NaN,5th Sense Massage Therapy,Self-regulated health professional,yes,yes,6,1,1
+NaN,NaN,NaN,NaN,7by7 Restaurant & The Parlour Sweet House,Restaurant with onsite dining,yes,yes,4,1,1
+NaN,NaN,NaN,NaN,80/20 Lifestyle Studio,Fitness establishment,yes,yes,0,1,1
+NaN,NaN,NaN,NaN,9+nine Chinese Cuisine,Restaurant with onsite dining,yes,yes,4,1,1
+NaN,NaN,NaN,NaN,902 Athletics,Fitness establishment,yes,yes,0,1,1
+NaN,NaN,NaN,NaN,902 Restaurant & Catering,Restaurant with onsite dining,yes,yes,4,1,1
+NaN,NaN,NaN,NaN,902HipHop,"Live, performing arts for audience",yes,yes,3,1,1
+NaN,NaN,NaN,NaN,9Round,Fitness establishment,yes,no,0,1,0
